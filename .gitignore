@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/ConsoleLesson5/.vs/ConsoleLesson5/FileContentIndex
+/ConsoleLesson5/.vs/ConsoleLesson5/v17
+/ConsoleLesson5/ConsoleLesson5/bin/Debug/net8.0
+/ConsoleLesson5/ConsoleLesson5/obj/Debug/net8.0
+/ConsoleLesson5/ConsoleLesson5/obj
